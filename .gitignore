@@ -1,0 +1,9 @@
+.hg/*
+.hgignore
+.idea/*
+redis_data/*
+venv/*
+data/*
+mongodb/*
+docker-entrypoint-initdb.d/*
+common_lib/__pycache__/*
